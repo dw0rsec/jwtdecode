@@ -1,6 +1,6 @@
 # urlencode.py
 
-A little python script to decode a JWT tokens useful for ctfs.
+A little python script to decode JWT tokens useful for ctfs.
 
 ```bash
 # Usage
